@@ -3,7 +3,6 @@
     <option name="customScope" value="Module 'java-sdk-all'" />
     <option name="defaultScopeName" value="Module 'java-sdk-all'" />
     <option name="SEARCH_SCOPE" value="Module 'java-sdk-all'" />
-    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
