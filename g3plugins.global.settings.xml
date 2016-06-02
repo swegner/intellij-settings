@@ -1,0 +1,9 @@
+<application>
+  <component name="G3PluginsGlobalSettings">
+    <appliedSettings>
+      <entry key="ReenableKotlinPlugin" value="true" />
+      <entry key="ReopenLastProjectOnStartup" value="true" />
+      <entry key="SynchronizeFilesOnFrameActivation" value="true" />
+    </appliedSettings>
+  </component>
+</application>
