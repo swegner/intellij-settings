@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="customScope" value="Default" />
+    <option name="defaultScopeName" value="Default" />
+    <option name="SEARCH_SCOPE" value="Default" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -13,8 +13,8 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.java</mask>
-      <mask>pom.xml</mask>
       <mask>*Display*</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
