@@ -5,6 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Module 'direct-runner'" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,6 +18,7 @@
       <mask>*.java</mask>
       <mask>*Display*</mask>
       <mask>pom.xml</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
