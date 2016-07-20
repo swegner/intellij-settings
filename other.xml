@@ -171,6 +171,10 @@
     <option name="KEEP_ITN_PASSWORD" value="false" />
     <option name="EMAIL" value="" />
   </component>
+  <component name="PyCodeInsightSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FUNCTION" value="true" />
+    <option name="RENAME_SEARCH_NON_CODE_FOR_FUNCTION" value="true" />
+  </component>
   <component name="RefactoringSettings">
     <option name="renameOverloads" value="false" />
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_METHOD" value="false" />
