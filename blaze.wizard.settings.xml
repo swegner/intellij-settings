@@ -1,8 +1,8 @@
 <application>
   <component name="BlazeWizardUserSettings">
     <settings>
-      <entry key="blaze-wizard.last-imported-workspace" value="/google/src/cloud/swegner/cloud-logging-slo-delay/google3" />
-      <entry key="copy-external.last-project-view-path" value="$USER_HOME$/g4-intellij/cloud-logging-integration-test/.blazeproject" />
+      <entry key="blaze-wizard.last-imported-workspace" value="/google/src/cloud/swegner/Rollback_of_CL_129784339_1470781831818/google3" />
+      <entry key="copy-external.last-project-view-path" value="$USER_HOME$/g4-intellij/cloud-logging-slo-delay/.blazeproject" />
       <entry key="generate-from-build-file.last-workspace-path" value="cloud/dataflow/testing/BUILD" />
       <entry key="select-project-view.selected-option" value="copy-external" />
       <entry key="select-workspace.selected-option" value="use-existing-workspace" />
