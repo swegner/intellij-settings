@@ -6,40 +6,7 @@
   </option>
   <option name="IMPORT_LAYOUT_TABLE">
     <value>
-      <package name="org.apache.beam" withSubpackages="true" static="true" />
-      <emptyLine />
-      <package name="com.google" withSubpackages="true" static="true" />
-      <emptyLine />
-      <package name="android" withSubpackages="true" static="true" />
-      <package name="com" withSubpackages="true" static="true" />
-      <package name="io" withSubpackages="true" static="true" />
-      <package name="junit" withSubpackages="true" static="true" />
-      <package name="net" withSubpackages="true" static="true" />
-      <package name="org" withSubpackages="true" static="true" />
-      <package name="sun" withSubpackages="true" static="true" />
-      <emptyLine />
-      <package name="java" withSubpackages="true" static="true" />
-      <emptyLine />
-      <package name="javax" withSubpackages="true" static="true" />
-      <emptyLine />
       <package name="" withSubpackages="true" static="true" />
-      <emptyLine />
-      <package name="org.apache.beam" withSubpackages="true" static="false" />
-      <emptyLine />
-      <package name="com.google" withSubpackages="true" static="false" />
-      <emptyLine />
-      <package name="android" withSubpackages="true" static="false" />
-      <package name="com" withSubpackages="true" static="false" />
-      <package name="io" withSubpackages="true" static="false" />
-      <package name="Jama" withSubpackages="true" static="false" />
-      <package name="junit" withSubpackages="true" static="false" />
-      <package name="net" withSubpackages="true" static="false" />
-      <package name="org" withSubpackages="true" static="false" />
-      <package name="sun" withSubpackages="true" static="false" />
-      <emptyLine />
-      <package name="java" withSubpackages="true" static="false" />
-      <emptyLine />
-      <package name="javax" withSubpackages="true" static="false" />
       <emptyLine />
       <package name="" withSubpackages="true" static="false" />
     </value>
