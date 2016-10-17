@@ -1,13 +1,13 @@
 <application>
   <component name="BlazeWizardUserSettings">
     <settings>
-      <entry key="blaze-wizard.last-imported-workspace" value="/google/src/cloud/swegner/pantheon_switch/google3" />
+      <entry key="blaze-wizard.last-imported-workspace" value="/google/src/cloud/swegner/python_switch/google3" />
       <entry key="copy-external.last-project-view-path" value="$USER_HOME$/g4-intellij/Rollback_of_CL_129784339_1470781831818/.blazeproject" />
       <entry key="create-citc-workspace.last-switch-client" value="dataflow_citc" />
       <entry key="create-citc-workspace.used-switch-client" value="true" />
-      <entry key="generate-from-build-file.last-workspace-path" value="cloud/dataflow/testing/BUILD" />
+      <entry key="generate-from-build-file.last-workspace-path" value="third_party/py/apache_beam/integration/BUILD" />
       <entry key="import-from-workspace.last-workspace-path" value="java/com/google/developers/console/pantheon.blazeproject" />
-      <entry key="select-project-view.selected-option" value="import-from-workspace" />
+      <entry key="select-project-view.selected-option" value="generate-from-build-file" />
       <entry key="select-workspace.selected-option" value="use-existing-workspace" />
     </settings>
   </component>
