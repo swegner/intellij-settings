@@ -1,6 +1,7 @@
 <application>
   <component name="G3PluginsGlobalSettings">
     <appliedSettings>
+      <entry key="DisableSafeWrite" value="true" />
       <entry key="ReenableKotlinPlugin" value="true" />
       <entry key="ReopenLastProjectOnStartup" value="true" />
       <entry key="SynchronizeFilesOnFrameActivation" value="true" />
