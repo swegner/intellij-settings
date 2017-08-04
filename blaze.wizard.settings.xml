@@ -6,8 +6,8 @@
       <entry key="create-citc-workspace.last-switch-client" value="dataflow_citc" />
       <entry key="create-citc-workspace.used-switch-client" value="true" />
       <entry key="generate-from-build-file.last-workspace-path" value="experimental/users/swegner/insights/histogram_algorithms/BUILD" />
-      <entry key="import-from-workspace.last-workspace-path" value="java/com/google/developers/console/pantheon.blazeproject" />
-      <entry key="select-project-view.selected-option" value="generate-from-build-file" />
+      <entry key="import-from-workspace.last-workspace-path" value="experimental/users/swegner/insights/histogram_algorithms/.blazeproject" />
+      <entry key="select-project-view.selected-option" value="import-from-workspace" />
       <entry key="select-workspace.selected-option" value="use-existing-citc-workspace" />
     </settings>
   </component>
