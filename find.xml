@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '[google-cloud-dataflow-java-worker-all] - /usr/local/google/home/swegner/beam-google3/google3/third_party/java_src/apache_beam/worker'" />
-    <option name="defaultScopeName" value="Directory '[google-cloud-dataflow-java-worker-all] - /usr/local/google/home/swegner/beam-google3/google3/third_party/java_src/apache_beam/worker'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '[google-cloud-dataflow-java-worker-all] - /usr/local/google/home/swegner/beam-google3/google3/third_party/java_src/apache_beam/worker'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
