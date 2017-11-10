@@ -1,14 +1,14 @@
 <application>
   <component name="BlazeWizardUserSettings">
     <settings>
-      <entry key="blaze-wizard.last-imported-workspace" value="/google/src/cloud/swegner/intellij/google3::/google/src/cloud/swegner/python_switch/google3" />
+      <entry key="blaze-wizard.last-imported-workspace" value="/google/src/cloud/swegner/pantheon_intellij_switch/google3::/google/src/cloud/swegner/intellij/google3::/google/src/cloud/swegner/python_switch/google3" />
       <entry key="copy-external.last-project-view-path" value="$USER_HOME$/g4-intellij/Rollback_of_CL_129784339_1470781831818/.blazeproject" />
-      <entry key="create-citc-workspace.last-switch-client" value="dataflow_citc" />
+      <entry key="create-citc-workspace.last-switch-client" value="pantheon_intellij_switch" />
       <entry key="create-citc-workspace.used-switch-client" value="true" />
       <entry key="generate-from-build-file.last-workspace-path" value="experimental/users/swegner/insights/histogram_algorithms/BUILD" />
-      <entry key="import-from-workspace.last-workspace-path" value="experimental/users/swegner/insights/histogram_algorithms/.blazeproject" />
+      <entry key="import-from-workspace.last-workspace-path" value="java/com/google/developers/console/pantheon.blazeproject" />
       <entry key="select-project-view.selected-option" value="import-from-workspace" />
-      <entry key="select-workspace.selected-option" value="use-existing-citc-workspace" />
+      <entry key="select-workspace.selected-option" value="create-new-citc-workspace" />
     </settings>
   </component>
 </application>
