@@ -2,9 +2,11 @@
   <component name="G3PluginsGlobalSettings">
     <appliedSettings>
       <entry key="AutoSaveWhenIdle" value="true" />
+      <entry key="CodesearchActionShortcutSetting" value="true" />
       <entry key="DisableKotlinPlugin2" value="true" />
       <entry key="DisableSafeWrite" value="true" />
       <entry key="IgnorePipertmpFiles" value="true" />
+      <entry key="JsdocReturnTag" value="true" />
       <entry key="PiccoloFileType" value="true" />
       <entry key="ReenableKotlinPlugin" value="true" />
       <entry key="ReopenLastProjectOnStartup" value="true" />
